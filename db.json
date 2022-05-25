@@ -1,0 +1,177 @@
+{
+"posts": [
+    {
+      "id":1,
+      "name_of_complexInput": "Захiдно-Український",
+      "name_of_refugeInput": "Луцьке",
+      "capasityInput": "8150",
+      "amount_of_wellsInput": "12",
+      "daily_productivityInput": "12",
+      "amount_of_pumped_gasInput": "1937,6",
+      "quantity_of_selected_gasInput": "210,4",
+      "dateInput": "04.04.1990"
+
+    }
+  
+    {
+      "id":2,
+      "name_of_complexInput": "Захiдно-Український",
+      "name_of_refugeInput": "Черепівське",
+      "capasityInput": "1000",
+      "amount_of_wellsInput": "33",
+      "daily_productivityInput": "19",
+      "amount_of_pumped_gasInput": "118,1",
+      "quantity_of_selected_gasInput": "396,1",
+      "dateInput": "05.06.1990"
+
+    }
+
+  {
+      "id":3,
+      "name_of_complexInput": "Захiдно-Український",
+      "name_of_refugeInput": "Черепівське",
+      "capasityInput": "1000",
+      "amount_of_wellsInput": "33",
+      "daily_productivityInput": "19",
+      "amount_of_pumped_gasInput": "198,2",
+      "quantity_of_selected_gasInput": "120,2",
+      "dateInput": "07.09.1989"
+
+    }
+
+  {
+      "id":4,
+      "name_of_complexInput": "Київський",
+      "name_of_refugeInput": "Тетіївське",
+      "capasityInput": "4000",
+      "amount_of_wellsInput": "147",
+      "daily_productivityInput": "8",
+      "amount_of_pumped_gasInput": "631,3",
+      "quantity_of_selected_gasInput": "81,2",
+      "dateInput": "23.09.1990"
+
+    }
+
+    {
+      "id":5,
+      "name_of_complexInput": "Київський",
+      "name_of_refugeInput": "Тетіївське",
+      "capasityInput": "4000",
+      "amount_of_wellsInput": "147",
+      "daily_productivityInput": "8",
+      "amount_of_pumped_gasInput": "678,7",
+      "quantity_of_selected_gasInput": "72,4",
+      "dateInput": "12.08.1991"
+
+    }
+    
+    {
+      "id":6,
+      "name_of_complexInput": "Київський",
+      "name_of_refugeInput": "Таращанське",
+      "capasityInput": "1800",
+      "amount_of_wellsInput": "34",
+      "daily_productivityInput": "3",
+      "amount_of_pumped_gasInput": "915,9",
+      "quantity_of_selected_gasInput": "343,2",
+      "dateInput": "20.09.1988"
+
+    }
+
+    {
+      "id":7,
+      "name_of_complexInput": "Київський",
+      "name_of_refugeInput": "Таращанське",
+      "capasityInput": "1800",
+      "amount_of_wellsInput": "34",
+      "daily_productivityInput": "3",
+      "amount_of_pumped_gasInput": "880,0",
+      "quantity_of_selected_gasInput": "34,1",
+      "dateInput": "12.11.1990"
+
+    }
+
+    {
+      "id":8,
+      "name_of_complexInput": "Київський",
+      "name_of_refugeInput": "Таращанське",
+      "capasityInput": "1800",
+      "amount_of_wellsInput": "34",
+      "daily_productivityInput": "3",
+      "amount_of_pumped_gasInput": "310,5",
+      "quantity_of_selected_gasInput": "310,0",
+      "dateInput": "23.10.1988"
+
+    }
+
+    {
+      "id":9,
+      "name_of_complexInput": "Донецький",
+      "name_of_refugeInput": "Володарське",
+      "capasityInput": "300",
+      "amount_of_wellsInput": "57",
+      "daily_productivityInput": "5",
+      "amount_of_pumped_gasInput": "120,2",
+      "quantity_of_selected_gasInput": "42,4",
+      "dateInput": "26.09.1991"
+
+    }
+
+    {
+      "id":10,
+      "name_of_complexInput": "Донецький",
+      "name_of_refugeInput": "Крапське",
+      "capasityInput": "2000",
+      "amount_of_wellsInput": "66",
+      "daily_productivityInput": "5",
+      "amount_of_pumped_gasInput": "352,5",
+      "quantity_of_selected_gasInput": "368,5",
+      "dateInput": "17.11.1989"
+
+    }
+
+    {
+      "id":11,
+      "name_of_complexInput": "Пiвденно-Український	",
+      "name_of_refugeInput": "Каховське",
+      "capasityInput": "1740",
+      "amount_of_wellsInput": "81",
+      "daily_productivityInput": "6",
+      "amount_of_pumped_gasInput": "573,2",
+      "quantity_of_selected_gasInput": "387,4",
+      "dateInput": "15.12.1991"
+
+    }
+
+    {
+      "id":12,
+      "name_of_complexInput": "Пiвденно-Український",
+      "name_of_refugeInput": "Новоліське",
+      "capasityInput": "1235",
+      "amount_of_wellsInput": "55",
+      "daily_productivityInput": "7",
+      "amount_of_pumped_gasInput": "456,0",
+      "quantity_of_selected_gasInput": "345,0",
+      "dateInput": "12.09.1992"
+
+    }
+
+
+    {
+      "id":13,
+      "name_of_complexInput": "Пiвденно-Український",
+      "name_of_refugeInput": "Новоліське",
+      "capasityInput": "1235",
+      "amount_of_wellsInput": "55",
+      "daily_productivityInput": "7",
+      "amount_of_pumped_gasInput": "654,0",
+      "quantity_of_selected_gasInput": "450,0",
+      "dateInput": "15.06.1993"
+
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
